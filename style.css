@@ -1,7 +1,5 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 20px;
-    
 }
 .orange-color{
     color: orangered;
@@ -11,11 +9,11 @@ h1{
     font-weight: 900;
 }
 h2{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 900;
 }
 h3{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 800;
 }
 .flexible{
@@ -63,7 +61,7 @@ h3{
 .m1{
     width: 50%;
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 2%%;
     padding: 20px;
     box-shadow: 10px 10px 20px white;
     border-radius: 15px;
@@ -72,7 +70,7 @@ h3{
 .m2{
     width: 50%;
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 2%;
     padding: 20px;
     box-shadow: 10px 10px 20px white;
     border-radius: 15px;
@@ -80,7 +78,7 @@ h3{
 }
 .m3{
     width: 50%;
-    margin-left: 5%;
+    margin-left: 2%;
     margin-right: 5%;
     padding: 20px;
     box-shadow: 10px 10px 20px white;
@@ -120,7 +118,7 @@ h5{
 }
 .change-width-fourth{
     width: 50%;
-    padding-left: 10%;
+    padding-left: 5%;
     margin-bottom: 100px;
 }
 .change-width-fourth img{
@@ -132,4 +130,24 @@ h5{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+footer{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+    background-color: black;
+}
+.fclass{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.change-width-last{
+    width: 50%;
+    padding-right: 10%;
+    margin-bottom: 100px;
+}
+.change-width-last img{
+    width: 80%;
+    height: 120%;
+    padding-left: 150px;
 }
