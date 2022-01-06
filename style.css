@@ -1,19 +1,21 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 50px;
+    margin: 20px;
 }
 .orange-color{
     color: orangered;
 }
 h1{
     font-size: 50px;
+    font-weight: 900;
 }
 h3{
     font-size: 50px;
+    font-weight: 800;
 }
 .flexible{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 .change-width{
     width: 50%;
@@ -22,11 +24,11 @@ h3{
 }
 .change-width img{
     width: 80%;
-    height: 100%;
     padding-right: 100px;
 }
 .allienment{
     text-align: justify;
+    font-weight: 600;
 }
 .button{
     text-decoration: none;
@@ -45,5 +47,47 @@ h3{
     border-image: linear-gradient(orangered, rgb(226, 143, 143));
     border-image-slice: 1;
     border-width: 10px;
-    border-radius: 5px;
+}
+.center{
+    text-align: center;
+}
+.blue-color{
+    color:navy;
+}
+.m1{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 20px white;
+    border-radius: 15px;
+    background-color: paleturquoise;
+}
+.m2{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 20px white;
+    border-radius: 15px;
+    background-color: thistle;
+}
+.m3{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 20px white;
+    border-radius: 15px;
+    background-color: khaki;
+}
+.mi img{
+    width: 50%;
+    padding-left: 5px; 
+    padding-right: 5px; 
+    margin-bottom: 0px; 
+}
+h5{
+    font-size: 30px;
+    font-weight: 700;
 }
