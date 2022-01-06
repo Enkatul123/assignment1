@@ -9,6 +9,10 @@ h1{
     font-size: 50px;
     font-weight: 900;
 }
+h2{
+    font-size: 50px;
+    font-weight: 900;
+}
 h3{
     font-size: 50px;
     font-weight: 800;
@@ -32,12 +36,12 @@ h3{
 }
 .button{
     text-decoration: none;
-    color: white;
-    background-image: linear-gradient(darkred, tomato);
+    color: #000000;
+    background-image: linear-gradient(rgb(224, 142, 112), tomato);
     border-radius: 15px;
     padding: 10px 10px;
     margin-right: 5px;
-    font-weight: 400;
+    font-weight: 900;
 }
 .gap{
     margin-top: 40px;
@@ -90,4 +94,21 @@ h3{
 h5{
     font-size: 30px;
     font-weight: 700;
+}
+.mission22{
+    margin-bottom: 100px;
+}
+.third{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.change-width-third{
+    width: 50%;
+    padding-right: 10%;
+    margin-bottom: 100px;
+}
+.change-width-third img{
+    width: 80%;
+    padding-left: 200px;
 }
