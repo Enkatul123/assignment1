@@ -119,13 +119,13 @@ h5{
 }
 .change-width-fourth{
     width: 50%;
-    padding-left: 5%;
+    padding-left: 10%;
     margin-bottom: 100px;
 }
 .change-width-fourth img{
     width: 60%;
     height: 90%;
-    padding-right: 250px;
+    padding-right: 280px;
 }
 .global{
     background-image: url(images/dream-bg.png);
