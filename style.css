@@ -46,7 +46,7 @@ h3{
     margin-top: 40px;
 }
 .border{
-    border-left: 7px solid ;
+    border-left: 7px solid;
     border-image: linear-gradient(orangered, rgb(209, 50, 50));
     border-image-slice: 1;
     border-width: 5px;
@@ -112,7 +112,7 @@ h5{
 .change-width-third img{
     width: 80%;
     height: 120%;
-    padding-left: 150px;
+    padding-left: 130px;
 }
 .height{
     line-height: 25px;
